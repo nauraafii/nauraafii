@@ -1,6 +1,6 @@
 # Hi, I'm Naufal (nauraafii)
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/596892182854631425)      [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/https://t.me/sorrataa)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/596892182854631425)                      [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/https://t.me/sorrataa)
 
 Technology enthusiast focused on software optimization, Linux environments, and Android modding. Currently building and maintaining **YTRVX**, a customized YouTube build using Morphe patches.
 
