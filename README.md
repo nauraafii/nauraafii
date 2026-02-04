@@ -5,7 +5,6 @@
 Technology enthusiast focused on software optimization, Linux environments, and Android modding. Currently building and maintaining **YTRVX**, a customized YouTube build using Morphe patches.
 
 ### Main Project
-[![YTRVX Build Status](https://github.com/nauraafii/ytrvx/actions/workflows/build.yml/badge.svg)](https://github.com/nauraafii/ytrvx/actions)
 
 * **[YTRVX](https://github.com/nauraafii/ytrvx)**: A personal, automated YouTube build with Morphe integration.
 
