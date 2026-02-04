@@ -1,13 +1,17 @@
 # Hi, I'm Naufal (nauraafii)
 
-A technology enthusiast focused on software optimization, Linux environments, and Android modding. Currently building and maintaining **YTRVX**, a customized YouTube build using Morphe patches.
+Technology enthusiast focused on software optimization, Linux environments, and Android modding. Currently building and maintaining **YTRVX**, a customized YouTube build using Morphe patches.
 
-### Technical Interests
-* **Systems**: Linux (Mint), Android (Root & Hardware Optimization)
-* **Tools**: Git, GitHub Actions, Bash Scripting
-* **Learning**: Coding and Linux System Administration
+### Main Project
+* **[YTRVX](https://github.com/nauraafii/ytrvx)** - A personal, automated YouTube build with Morphe integration.
+[![YTRVX Build Status](https://github.com/nauraafii/ytrvx/actions/workflows/build.yml/badge.svg)](https://github.com/nauraafii/ytrvx/actions)
 
-### Current Project
-* [YTRVX](https://github.com/nauraafii/ytrvx) - A personal, automated YouTube build with Morphe integration.
+### Hardware & Optimization Stack
+* **Operating Systems**: Linux Mint, Android Rooted.
+* **Core Tools**: Git, GitHub Actions, Bash Scripting.
+* **Learning Path**: Coding and Linux System Administration.
 
-![nauraafii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nauraafii&show_icons=true&theme=dark)
+### Statistics
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nauraafii&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauraafii&layout=compact&theme=dark) |
