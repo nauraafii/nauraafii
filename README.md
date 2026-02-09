@@ -1,17 +1,34 @@
-# Hi, I'm Naufal (nauraafii)
+# Hi, I'm Nauraafii!
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/596892182854631425)                      [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sorrataa)
+**Android & Linux Enthusiast | Automation**
 
-Technology enthusiast focused on software optimization, Linux environments, and Android modding. Currently building and maintaining **YTRVX**, a customized YouTube build using Morphe patches.
-
-### Main Project
-
-* **[YTRVX](https://github.com/nauraafii/ytrvx)**: A personal, automated YouTube build with Morphe integration.
-
-### Hardware & Optimization Stack
-* **Operating Systems**: Linux Mint, Android Rooted.
-* **Core Tools**: Git, GitHub Actions, Bash Scripting.
-* **Learning Path**: Coding and Linux System Administration.
+I spend my time tweaking Android systems and writing scripts to make life easier. Currently maintaining a build script for ReVanced.
 
 ---
-*If u going to try, go all the way. Otherwise, don't even start.*
+
+## Featured Project
+
+### [YTRVX Module](https://github.com/nauraafii/ytrvx-module)
+**Universal ReVanced Extended Builder (Magisk/KSU)**
+
+An automated workflow that builds the latest YouTube ReVanced Extended modules directly on GitHub.
+* **Always Up-to-Date:** Fetches the latest patches from *Anddea*.
+* **Optimized:** Auto-compresses APKs & Modules.
+* **Universal:** Works for Root (Magisk/KSU) & Non-Root (MicroG).
+
+[![Build Status](https://github.com/nauraafii/ytrvx-module/actions/workflows/build.yml/badge.svg)](https://github.com/nauraafii/ytrvx-module/actions)
+[View Project ➜](https://github.com/nauraafii/ytrvx-module)
+
+---
+
+## Toolbox
+
+| OS | Version Control | Scripting |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nauraafii&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
