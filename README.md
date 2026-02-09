@@ -27,7 +27,3 @@ An automated workflow that builds the latest YouTube ReVanced Extended modules d
 | <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nauraafii&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
