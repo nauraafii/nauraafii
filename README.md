@@ -17,7 +17,6 @@ An automated workflow that builds the latest YouTube ReVanced Extended modules d
 * **Universal:** Works for Root (Magisk/KSU) & Non-Root (MicroG).
 
 [![Build Status](https://github.com/nauraafii/ytrvx-module/actions/workflows/build.yml/badge.svg)](https://github.com/nauraafii/ytrvx-module/actions)
-[View Project ➜](https://github.com/nauraafii/ytrvx-module)
 
 ---
 
