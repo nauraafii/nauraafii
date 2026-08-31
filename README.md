@@ -1,19 +1,17 @@
-# Hi, I'm Nauraafii!
+# Hi, I'm Nauraafii
 
-I spend my time learning something
+I use this profile for personal projects and experiments.
 
----
+## Featured project
 
-## Featured Project
+### [YTRVX](https://github.com/nauraafii/ytrvx-module)
 
-### [YTRVX Module](https://github.com/nauraafii/ytrvx-module)
-**Universal ReVanced Extended Builder (Magisk/KSU) Fork From [j-hc](https://github.com/j-hc/revanced-magisk-module)**
+Personal fork untuk membuat YouTube dan YouTube Music yang sudah dipatch.
 
-An automated workflow that builds the latest YouTube ReVanced Extended modules directly on GitHub.
-* **Always Up-to-Date:** Fetches the latest patches from *Anddea*.
-* **Optimized:** Auto-compresses APKs & Modules.
-* **Universal:** Works for Root (Magisk/KSU) & Non-Root (MicroG).
+- Menggunakan Morphe Patches dan Morphe Desktop.
+- Menyediakan APK non-root serta modul Magisk/KernelSU.
+- Build dan rilis dilakukan melalui GitHub Actions.
+- Konfigurasi tersedia di repository YTRVX.
 
 [![Build Status](https://github.com/nauraafii/ytrvx-module/actions/workflows/build.yml/badge.svg)](https://github.com/nauraafii/ytrvx-module/actions)
-
----
+[![Latest Release](https://img.shields.io/github/v/release/nauraafii/ytrvx-module?label=Latest%20Release&color=blue)](https://github.com/nauraafii/ytrvx-module/releases/latest)
