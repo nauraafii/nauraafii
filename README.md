@@ -1,8 +1,6 @@
 # Hi, I'm Nauraafii!
 
-**Android & Linux Enthusiast**
-
-I spend my time learning tweaking Android systems and writing scripts to make life easier. Currently maintaining a build script for ReVanced.
+I spend my time learning something
 
 ---
 
