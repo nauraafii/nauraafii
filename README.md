@@ -1,17 +1,18 @@
-# Hi, I'm Nauraafii
+# Hi, I'm Naufal.
 
-I use this profile for personal projects and experiments.
+Computer Engineering student at PENS. I build small web systems and Android automation projects.
+
+> Mahasiswa Teknik Komputer di PENS. Saya membuat proyek web sederhana dan automasi Android.
 
 ## Featured project
 
 ### [YTRVX](https://github.com/nauraafii/ytrvx-module)
 
-Personal fork untuk membuat YouTube dan YouTube Music yang sudah dipatch.
+Personal fork for automated Android patch builds and GitHub Releases.
 
-- Menggunakan Morphe Patches dan Morphe Desktop.
-- Menyediakan APK non-root serta modul Magisk/KernelSU.
-- Build dan rilis dilakukan melalui GitHub Actions.
-- Konfigurasi tersedia di repository YTRVX.
+> Fork pribadi untuk membangun dan merilis patch Android secara otomatis.
 
-[![Build Status](https://github.com/nauraafii/ytrvx-module/actions/workflows/build.yml/badge.svg)](https://github.com/nauraafii/ytrvx-module/actions)
-[![Latest Release](https://img.shields.io/github/v/release/nauraafii/ytrvx-module?label=Latest%20Release&color=blue)](https://github.com/nauraafii/ytrvx-module/releases/latest)
+- Builds patched YouTube and YouTube Music as non-root APKs and root modules.
+- Uses Morphe Patches and GitHub Actions for reproducible releases.
+
+[Portfolio](https://nauraafii.github.io/) · [Latest YTRVX release](https://github.com/nauraafii/ytrvx-module/releases/latest)
