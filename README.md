@@ -1,18 +1,21 @@
 # Hi, I'm Naufal.
 
-Computer Engineering student at PENS. I build small web systems and Android automation projects.
+Computer Engineering student at PENS. I work on Android build automation and small web projects.
 
-> Mahasiswa Teknik Komputer di PENS. Saya membuat proyek web sederhana dan automasi Android.
+Di sini saya menyimpan proyek yang saya pakai dan rawat sendiri.
 
-## Featured project
+## Projects
 
 ### [YTRVX](https://github.com/nauraafii/ytrvx-module)
 
-Personal fork for automated Android patch builds and GitHub Releases.
+A personal project based on [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module), built around Morphe Patches and GitHub Actions.
 
-> Fork pribadi untuk membangun dan merilis patch Android secara otomatis.
+My changes focus on personal build configuration, documentation, and small workflow adjustments.
 
-- Builds patched YouTube and YouTube Music as non-root APKs and root modules.
-- Uses Morphe Patches and GitHub Actions for reproducible releases.
+[Repository](https://github.com/nauraafii/ytrvx-module) · [Latest release](https://github.com/nauraafii/ytrvx-module/releases/latest)
 
-[Portfolio](https://nauraafii.github.io/) · [Latest YTRVX release](https://github.com/nauraafii/ytrvx-module/releases/latest)
+### [Personal website](https://nauraafii.github.io/)
+
+A bilingual site built with Hugo, Blowfish, custom CSS, and GitHub Pages.
+
+[Visit website](https://nauraafii.github.io/) · [Source](https://github.com/nauraafii/nauraafii.github.io)
