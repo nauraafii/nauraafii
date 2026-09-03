@@ -2,8 +2,6 @@
 
 Computer Engineering student at PENS. I work on Android build automation and small web projects.
 
-Di sini saya menyimpan proyek yang saya pakai dan rawat sendiri.
-
 ## Projects
 
 ### [YTRVX](https://github.com/nauraafii/ytrvx-module)
